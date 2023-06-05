@@ -1,37 +1,43 @@
 
-# lskf
+# Example Title
 
-![badge](https://img.shields.io/badge/License-BSD 3-Clause "New" or "Revised" License-brightorange)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Description
 
-lkcjndck
+This is my very long and detailed description.
 
 ## Table of Contents
 
 [Installation](#installation)
+
 [Usage](#usage)
+
 [Credits](#credits)
+
 [License](#license)
+
 [Contributing](#contributing)
+
 [Tests](#tests)
+
 [Questions](#questions)
 
 ## Installation
 
-ldnvjdc
+You install this by doing that.
 
 ## Usage
 
-ldvbjudnc
+You can do this, that, or this.
 
 ## Credits
 
-jdincic
+JohnDoe123 and JaneDoe456
 
 ## License
 
-BSD 3-Clause "New" or "Revised" License
+MIT License
 
 ## Contributing
 
@@ -39,7 +45,7 @@ undefined
 
 ## Tests
 
-djcn jkc
+You can test with this.
 
 ## Questions
 
