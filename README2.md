@@ -1,11 +1,11 @@
 
-# mytitle
+# My Project Title
   
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
   
 ## Description
   
-mydescription
+This is my very long and detailed description.
 
 ## Table of Contents
 
@@ -25,33 +25,33 @@ mydescription
 
 ## Installation
 
-myinstallation
+You can install this by doing this and that.
 
 ## Usage
 
-myusage
+You use it by doing this or that.
 
 ## Credits
 
-mycredits
+JohnDoe123, JaneDoe456
 
 ## Contributing
 
-mycontributing
+Please contribute by contributing.
 
 ## Tests
 
-mytest
+Test this by doing that or this.
 
 ## Questions
 
 GitHub: [rayr482](https://github.com/rayr482)
 
-Email: [rodriguezraymond482@gmail.com](mailto:rodriguezraymond482@gmail.com)
+Email: [rar002@ucsd.edu](mailto:rar002@ucsd.edu)
 
 ## License
 
-License used: MIT License
+License used: The Unlicense
 
-Link to License: https://choosealicense.com/licenses/mit/
+Link to License: https://choosealicense.com/licenses/unlicense/
 
