@@ -1,11 +1,11 @@
 
-# Example Title
-
+# mytitle
+  
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
+  
 ## Description
-
-This is my very long and detailed description.
+  
+mydescription
 
 ## Table of Contents
 
@@ -15,40 +15,43 @@ This is my very long and detailed description.
 
 [Credits](#credits)
 
-[License](#license)
-
 [Contributing](#contributing)
 
 [Tests](#tests)
 
 [Questions](#questions)
 
+[License](#license)
+
 ## Installation
 
-You install this by doing that.
+myinstallation
 
 ## Usage
 
-You can do this, that, or this.
+myusage
 
 ## Credits
 
-JohnDoe123 and JaneDoe456
-
-## License
-
-MIT License
+mycredits
 
 ## Contributing
 
-undefined
+mycontributing
 
 ## Tests
 
-You can test with this.
+mytest
 
 ## Questions
 
-Github: [rayr482](https://github.com/rayr482)
+GitHub: [rayr482](https://github.com/rayr482)
 
 Email: [rodriguezraymond482@gmail.com](mailto:rodriguezraymond482@gmail.com)
+
+## License
+
+License used: MIT License
+
+Link to License: https://choosealicense.com/licenses/mit/
+
