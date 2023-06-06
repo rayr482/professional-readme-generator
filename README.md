@@ -6,4 +6,3 @@ This project was created to make creating a professional README file much easier
 
 ## Link to Video Demonstration
 
-https://drive.google.com/file/d/1LDNV6cc8RniWI2oGKGsayrshRtc74YKY/view
